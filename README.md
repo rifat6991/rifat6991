@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rifat6991
 - 👀 I’m interested in cutting-edge technologies
+- 👌 I Generally work with WordPress (PHP, JS, SCSS/CSS)
 - 🌱 I’m currently learning React Js & React Native With the backend Node/Express, GraphQL etc.
 - 💞️ I’m looking to collaborate on React Dreag & Drop CMS
 - 📫 How to reach me by facebook https://fb.com/muhammadrifatcr or via email mdrifatbd96@gmail.com
